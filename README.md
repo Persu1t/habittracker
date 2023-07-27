@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## To clone the project just use
-**git clone**
+**git clone** https://github.com/Persu1t/habittracker.git
 
 ## Available Scripts
 
