@@ -2,7 +2,11 @@
 
 **Project live link** https://lighthearted-twilight-1dc2f2.netlify.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template. Also used [Tailwindcss](https://tailwindcss.com/) and [React-tostify](https://www.npmjs.com/package/react-toastify)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template. Also used [Tailwindcss](https://tailwindcss.com/) and [React-tostify](https://www.npmjs.com/package/react-toastify).
+
+This app helps you to build a new habait. You can create your new habait, delete and update your habit status for next seven days.
+On top of that it is your personalised tracker without taking any stress of authrization/authentication.
+
 
 
 ## To clone the project just use
